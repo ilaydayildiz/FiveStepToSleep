@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Five Step To Sleep</string>
+    <string name="title_activity_second_page">secondPage</string>
+    <string name="title_activity_third_page">thirdPage</string>
+    <string name="title_activity_fourth_page">fourthPage</string>
+    <string name="title_activity_fifth_page">fifthPage</string>
+    <string name="title_activity_sixth_page">sixthPage</string>
+</resources>
